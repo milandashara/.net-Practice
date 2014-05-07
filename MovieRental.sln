@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRental", "MovieRental\MovieRental.csproj", "{DF6FED31-8D00-4928-8B29-128F412D9549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRental.Data", "MovieRental.Data\MovieRental.Data.csproj", "{30BDF64E-9BDA-432B-89D7-92DCAD71465B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRental.Models", "MovieRental.Models\MovieRental.Models.csproj", "{10D10F29-23FE-47B3-8BA8-46B43F368934}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF6FED31-8D00-4928-8B29-128F412D9549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF6FED31-8D00-4928-8B29-128F412D9549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF6FED31-8D00-4928-8B29-128F412D9549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF6FED31-8D00-4928-8B29-128F412D9549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30BDF64E-9BDA-432B-89D7-92DCAD71465B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BDF64E-9BDA-432B-89D7-92DCAD71465B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BDF64E-9BDA-432B-89D7-92DCAD71465B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BDF64E-9BDA-432B-89D7-92DCAD71465B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10D10F29-23FE-47B3-8BA8-46B43F368934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D10F29-23FE-47B3-8BA8-46B43F368934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D10F29-23FE-47B3-8BA8-46B43F368934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D10F29-23FE-47B3-8BA8-46B43F368934}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

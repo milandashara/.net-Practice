@@ -1,0 +1,6 @@
+c:\users\milan\documents\visual studio 2010\Projects\MovieRental\MovieRental.Models\bin\Debug\MovieRental.Models.dll.config
+c:\users\milan\documents\visual studio 2010\Projects\MovieRental\MovieRental.Models\bin\Debug\MovieRental.Models.dll
+c:\users\milan\documents\visual studio 2010\Projects\MovieRental\MovieRental.Models\bin\Debug\MovieRental.Models.pdb
+c:\users\milan\documents\visual studio 2010\Projects\MovieRental\MovieRental.Models\obj\Debug\ResolveAssemblyReference.cache
+c:\users\milan\documents\visual studio 2010\Projects\MovieRental\MovieRental.Models\obj\Debug\MovieRental.Models.dll
+c:\users\milan\documents\visual studio 2010\Projects\MovieRental\MovieRental.Models\obj\Debug\MovieRental.Models.pdb
